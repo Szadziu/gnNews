@@ -1,0 +1,13 @@
+{
+    "articlesAmountText": "Number of articles displayed: ",
+    "rootRouteContentText": "Select a country from the list on the left to view the articles. I recommend Saudi Arabia.",
+    "asideHeader": "Country list",
+    "customModalHeader": "Details",
+    "authorText": "Author: ",
+    "noArticleAuthorText": "unknown",
+    "articleAddressURLText": "Address URL: ",
+    "contentText": "Content: ",
+    "articleNoContentText": "no content",
+    "modalAdditionalInfoText": "I thought about the answer for a while, which was the biggest difficulty, and decided to test it. Certainly, it is largely due to the fact that these were my first tests :) The greatest fun was learning how to internationalize.",
+    "dateOfPublication": "Date of publication: "
+}

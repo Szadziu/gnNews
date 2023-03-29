@@ -1,0 +1,13 @@
+{
+    "articlesAmountText": "Liczba wyświetlanych artykułów: ",
+    "rootRouteContentText": "Wybierz państwo z listy po lewej, aby wyświetlić artykuły. Polecam wybrać Arabię Saudyjską",
+    "asideHeader": "Lista państw",
+    "customModalHeader": "Szczegóły",
+    "authorText": "Autor: ",
+    "noArticleAuthorText": "nieznany",
+    "articleAddressURLText": "Adres URL: ",
+    "contentText": "Treść:",
+    "articleNoContentText": "brak treści",
+    "modalAdditionalInfoText": "Chwilę zastanawiałem się nad odpowiedzią co było największą trudnością i jednak zdecydowałem się na testowanie. Na pewno w dużej mierze jest to spowodowane tym, że to były moje pierwsze testy :) Największą frajdą było poznanie sposobu na internacjolizację.",
+    "dateOfPublication": "Data publikacji: "
+}
